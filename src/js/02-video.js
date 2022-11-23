@@ -8,4 +8,5 @@
 
 // player.on('play', onPlay);
 
-console.log('привет55555');
+const elIt = document.querySelector('a');
+console.log(elIt);

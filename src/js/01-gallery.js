@@ -1,4 +1,3 @@
-
 import SimpleLightbox from "simplelightbox";
 import "simplelightbox/dist/simple-lightbox.min.css";
 import { galleryItems } from './gallery-items';
@@ -26,4 +25,4 @@ const imgEl = galleryItems
     scrollZoom: false,
    });
 
-console.log(galleryItems);
+console.log(5);
