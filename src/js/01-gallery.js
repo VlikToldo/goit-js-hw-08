@@ -25,4 +25,4 @@ const imgEl = galleryItems
     scrollZoom: false,
    });
 
-console.log(5);
+console.log(galleryItems);
